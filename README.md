@@ -1,14 +1,14 @@
 ## E-commerce Sales Analysis
 ### 📌 Table of Contents
-- [Project Overview]([#project-overview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#project-overview))
-- [Business Questions]([#business-questions](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-questions))
-- [Dashboard Preview]([#dashboard-preview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#dashboard-preview))
-- [Tools & Technologies]([#tools--technologies](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#tools--technologies))
-- [Analysis Approach]([#analysis-approach](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#analysis-approach))
+- [Project Overview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#project-overview)
+- [Business Questions](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-questions)
+- [Dashboard Preview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#dashboard-preview)
+- [Tools & Technologies](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#tools--technologies)
+- [Analysis Approach](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#analysis-approach)
 - [Key Insights](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#key-insights)
-- [Business Implications]([#business-implications](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-implications))
-- [Recommendations]([#recommendations](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#recommendations))
-- [Author]([#author](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#author))
+- [Business Implications](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-implications)
+- [Recommendations](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#recommendations)
+- [Author](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#author)
 
 
 ### Project Overview
