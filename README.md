@@ -1,17 +1,14 @@
-<img width="586" height="331" alt="Ecommerce Dashboard 2" src="https://github.com/user-attachments/assets/f138de32-6b5b-4494-868c-bbbfc042b325" />## E-commerce Sales Analysis (2023–2025) – Power BI Project
-
+## E-commerce Sales Analysis
 ### 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Business Questions](#business-questions)
-- [Dataset](#dataset)
-- [Dashboard Preview](#dashboard-preview)
-- [Tools & Technologies](#tools--technologies)
-- [Analysis Approach](#analysis-approach)
-- [Key Insights](#key-insights)
-- [Business Implications](#business-implications)
-- [Recommendations](#recommendations)
-- [Project Structure](#project-structure)
-- [Author](#author)
+- [Project Overview]([#project-overview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#project-overview))
+- [Business Questions]([#business-questions](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-questions))
+- [Dashboard Preview]([#dashboard-preview](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#dashboard-preview))
+- [Tools & Technologies]([#tools--technologies](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#tools--technologies))
+- [Analysis Approach]([#analysis-approach](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#analysis-approach))
+- [Key Insights](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#key-insights)
+- [Business Implications]([#business-implications](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#business-implications))
+- [Recommendations]([#recommendations](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#recommendations))
+- [Author]([#author](https://github.com/Honour00/E-commerce-Sales-Analysis-/blob/main/README.md#author))
 
 
 ### Project Overview
@@ -30,23 +27,6 @@ The analysis aims to answer the following key questions:
 - Which countries drive overall sales performance?
 - How do payment preferences influence transactions?
 - Where are the biggest opportunities for growth?
-
-## Dataset
-
-The dataset represents transactional e-commerce data and includes attributes such as:
-
-- Revenue / Sales Value  
-- Transactions / Orders  
-- Customer Demographics  
-- Age Groups  
-- Country / Geographic Data  
-- Payment Methods  
-
-**Note:** The most recent year contains partial data, which affects year-over-year comparisons.
-
-The dataset can be found in the **data folder** of this repository.
-
----
 
 ### Dashboard Preview
 
